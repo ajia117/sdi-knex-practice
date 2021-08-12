@@ -1,0 +1,29 @@
+{
+  "name": "sdi-knex-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajia117/sdi-knex-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/ajia117/sdi-knex-practice/issues"
+  },
+  "homepage": "https://github.com/ajia117/sdi-knex-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.21",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
